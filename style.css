@@ -74,7 +74,7 @@ img {
 
 
 #main1 {background-color: rgb(196, 169, 146);margin: -10px;
-    padding: 35px;box-shadow: 5px black;}
+    padding: 30px;box-shadow: 5px black;}
 
 h2 {font-size: 30px;
 font-family: 'Anton' ,  sans-serif;
@@ -87,7 +87,6 @@ letter-spacing: 2px;}
 #textcolumn2 {
     vertical-align: top;
     padding-top:30px;
-    margin-right:30px;
 }
 
 
@@ -129,13 +128,12 @@ footer {background-color:rgb(122, 129, 119) ;max-width: 100%;border-bottom: 2px 
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
     .col-s-3 {width: 24.5%;}
-    .col-s-4 {width: 33.33%;}
-    .col-s-5 {width: 41.66%;}
+    .col-s-4 {width: 33%;}
+    .col-s-5 {width: 40%;}
     .col-s-6 {width: 49%;}
-    .col-s-7 {width: 58.33%;}
-    .col-s-8 {width: 66%;}
+    .col-s-7 {width: 58%;}
+    .col-s-8 {width: 65%;}
     .col-s-9 {width: 75%;}
     .col-s-10 {width: 83.33%;}
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
-    
